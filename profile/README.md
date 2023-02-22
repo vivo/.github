@@ -1,10 +1,12 @@
-<pre align="center">
+<!--
+<pre align="center" >
       _           
 __ __(_)__ __ ___ 
 \ V /| |\ V // _ \
  \_/ |_| \_/ \___/
                
 </pre>
+-->
 
 <p align="center">
     <h3 align="center">拥抱开源，拥抱未来！</h3>
