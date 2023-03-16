@@ -15,3 +15,6 @@ __ __(_)__ __ ___
 <p align="center">   
     <h4 align="center">Embrace open source, embrace the future !</h4>
 </p>
+<p align="center">
+    <a href="https://opensource.vivo.com/" target="_blank">Mobile OSS</a>  |  <a href="https://github.com/vivo">Internet OSS</a>
+</p>
