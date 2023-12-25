@@ -7,6 +7,7 @@ __ __(_)__ __ ___
                
 </pre>
 -->
+[ ![CNCF Landscape](https://img.shields.io/badge/CNCF%20Landscape-5699C6) ](https://cncf.landscape2.io/?item=cncf-members--end-user-supporter--vivo-supporter-)
 
 <p align="center">
     <h3>vivo Open Source</h3>
