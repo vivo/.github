@@ -7,8 +7,6 @@ __ __(_)__ __ ___
                
 </pre>
 -->
-[ ![CNCF Landscape](https://img.shields.io/badge/CNCF%20Landscape-5699C6) ](https://cncf.landscape2.io/?item=cncf-members--end-user-supporter--vivo-supporter-)
-[![OSPO Landscape](https://img.shields.io/badge/OSPO%20Landscape-5699C6)](https://landscape.todogroup.org/?item=todo-group-member--general--vivo-member)
 
 <p align="center">
     <h3>vivo Open Source</h3>
@@ -19,4 +17,9 @@ __ __(_)__ __ ___
 </p>
 <p align="center">
     <a href="https://opensource.vivo.com/" target="_blank">Mobile OSS</a>  |  <a href="https://github.com/vivo">Internet OSS</a> | <a href="https://github.com/vivo-ai-lab">AI Lab</a>
+</p>
+<p>
+    <br/>
+    [ ![CNCF Landscape](https://img.shields.io/badge/CNCF%20Landscape-5699C6) ](https://cncf.landscape2.io/?item=cncf-members--end-user-supporter--vivo-supporter-)
+    [![OSPO Landscape](https://img.shields.io/badge/OSPO%20Landscape-5699C6)](https://landscape.todogroup.org/?item=todo-group-member--general--vivo-member)
 </p>
