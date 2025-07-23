@@ -22,3 +22,13 @@ __ __(_)__ __ ___
 [ ![CNCF Landscape](https://img.shields.io/badge/CNCF%20Landscape-5699C6) ](https://cncf.landscape2.io/?item=cncf-members--end-user-supporter--vivo-supporter-)
 [![OSPO Landscape](https://img.shields.io/badge/OSPO%20Landscape-5699C6)](https://landscape.todogroup.org/?item=todo-group-member--general--vivo-member)
 
+<p>
+    <ul>
+          <li>
+                <sup><b>NEW</b></sup> <a href="https://github.com/vivo">BlueOS</a>
+                aims to deliver an intelligent, secure, and high-performance next-generation operating system.
+          </li>
+    </ul>
+</p>
+
+
