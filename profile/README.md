@@ -25,7 +25,7 @@ __ __(_)__ __ ___
 <p>
     <ul>
           <li>
-                <sup><b>NEW</b></sup> <a href="https://github.com/vivo">BlueOS</a>
+                <sup><b>NEW</b></sup> <a href="https://github.com/vivoblueos">BlueOS</a>
                 aims to deliver an intelligent, secure, and high-performance next-generation operating system.
           </li>
     </ul>
