@@ -19,7 +19,6 @@ __ __(_)__ __ ___
     <a href="https://opensource.vivo.com/" target="_blank">Mobile OSS</a>  |  <a href="https://github.com/vivo">Internet OSS</a> | <a href="https://github.com/vivo-ai-lab">AI Lab</a>
 </p>
 
-[ ![CNCF Landscape](https://img.shields.io/badge/CNCF%20Landscape-5699C6) ](https://cncf.landscape2.io/?item=cncf-members--end-user-supporter--vivo-supporter-)
 [![OSPO Landscape](https://img.shields.io/badge/OSPO%20Landscape-5699C6)](https://landscape.todogroup.org/?item=todo-group-member--general--vivo-member)
 
 <p>
