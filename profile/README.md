@@ -16,7 +16,7 @@ __ __(_)__ __ ___
     <h4 align="center">Embrace open source, embrace the future !</h4>
 </p>
 <p align="center">
-    <a href="https://opensource.vivo.com/" target="_blank">Mobile OSS</a>  |  <a href="https://github.com/vivo">Internet OSS</a> | <a href="https://github.com/vivo-ai-lab">AI Lab</a>
+    <a href="https://opensource.vivo.com/" target="_blank">Mobile OSS</a>  |  <a href="https://github.com/vivo">Internet OSS</a>
 </p>
 
 [![OSPO Landscape](https://img.shields.io/badge/OSPO%20Landscape-5699C6)](https://landscape.todogroup.org/?item=todo-group-member--general--vivo-member)
@@ -24,7 +24,10 @@ __ __(_)__ __ ___
 <p>
     <ul>
           <li>
-                <sup><b>NEW</b></sup> <a href="https://github.com/vivoblueos">BlueOS</a>
+              <sup><b>NEW</b></sup> We are excited to open-source <a href="https://github.com/vivo/BluePixel">BluePixel model</a>, a native 4K image editing model upgraded from a 1K-pretrained Flux 2 Klein editor.
+          </li>
+          <li>
+                <a href="https://github.com/vivoblueos">BlueOS</a>
                 aims to deliver an intelligent, secure, and high-performance next-generation operating system.
           </li>
     </ul>
